@@ -9,7 +9,7 @@ A few resources to get you started if this is your first Message Queue project:
 2. Setting AppSettings.json 
 
 ## Screenshoot
-
+![](https://github.com/mahendraputra21/service-bus-demo/blob/main/azure-service-bus.png)
 
 ## Reference
 [Please follow this Video for the detail](https://www.youtube.com/watch?v=v52yC9kq0Yg&ab_channel=IAmTimCorey)
