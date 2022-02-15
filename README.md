@@ -13,3 +13,5 @@ A few resources to get you started if this is your first Message Queue project:
 
 ## Reference
 [Please follow this Video for the detail](https://www.youtube.com/watch?v=v52yC9kq0Yg&ab_channel=IAmTimCorey)
+
+note : In this case we are call the api from this project https://github.com/mahendraputra21/WebApiCQRS
